@@ -1,11 +1,16 @@
 _repo: Hudson-Tercentenary-An-historical-retrospect-regarding-the-object-and-quest-of-an-all-water-r__57711
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57711-h/images/cover.jpg
 creator:
   author:
     agent_name: Chamberlain, Frank
     gutenberg_agent_id: '49548'
     url: http://www.gutenberg.org/2009/agents/49548
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57711#Hudson-Tercentenary-An-historical-retrospect-regarding-the-object-and-quest-of-an-all-water-r_
 gutenberg_issued: '2018-08-17'
 gutenberg_type: Text
 identifiers:
